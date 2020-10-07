@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3dc7b37c-d6d7-43ff-b603-a3ee29d2fdb7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1i03TmA1IK4FTy1Hj5vI4K8HgDa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3dc7b37c-d6d7-43ff-b603-a3ee29d2fdb7" name="Default Changelist" comment="" />
+      <created>1601030692764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601030692764</updated>
+      <workItem from="1601030694218" duration="163000" />
+      <workItem from="1601030868651" duration="769000" />
+      <workItem from="1601270734958" duration="73387000" />
+      <workItem from="1601532078608" duration="3006000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="256" y="372" width="1397" height="301" key="#SQL_Dialects" timestamp="1601291505578">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="256" y="372" width="1397" height="301" key="#SQL_Dialects/0.27.1920.985/1920.0.1920.1080@0.27.1920.985" timestamp="1601291505578" />
+    <state x="555" y="181" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601291496551">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="555" y="181" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.985/1920.0.1920.1080@0.27.1920.985" timestamp="1601291496551" />
+    <state x="676" y="321" width="557" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601365874620">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="676" y="321" width="557" height="403" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.985/1920.0.1920.1080@0.27.1920.985" timestamp="1601365874620" />
+    <state x="718" y="381" width="474" height="290" key="#com.jetbrains.php.refactoring.move.PhpMoveClassDialog#0" timestamp="1601294972318">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="718" y="381" width="474" height="290" key="#com.jetbrains.php.refactoring.move.PhpMoveClassDialog#0/0.27.1920.985/1920.0.1920.1080@0.27.1920.985" timestamp="1601294972318" />
+    <state x="743" y="277" width="424" height="491" key="FileChooserDialogImpl" timestamp="1601470476418">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="743" y="277" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.985/1920.0.1920.1080@0.27.1920.985" timestamp="1601470476418" />
+    <state x="755" y="445" width="399" height="156" key="NewPhpFileDialog" timestamp="1601030813029">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="755" y="445" width="399" height="156" key="NewPhpFileDialog/0.27.1920.985@0.27.1920.985" timestamp="1601030813029" />
+    <state x="449" y="154" width="1022" height="737" key="SettingsEditor" timestamp="1601030697792">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="449" y="154" width="1022" height="737" key="SettingsEditor/0.27.1920.985@0.27.1920.985" timestamp="1601030697792" />
+    <state x="624" y="235" key="run.anything.popup" timestamp="1601299451817">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="624" y="235" key="run.anything.popup/0.27.1920.985/1920.0.1920.1080@0.27.1920.985" timestamp="1601299451817" />
+    <state x="623" y="242" width="672" height="678" key="search.everywhere.popup" timestamp="1601290692925">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="623" y="242" width="672" height="678" key="search.everywhere.popup/0.27.1920.985/1920.0.1920.1080@0.27.1920.985" timestamp="1601290692925" />
+  </component>
+</project>

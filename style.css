@@ -1,0 +1,40 @@
+body
+{
+    background-color: darkgray;
+}
+a{
+    border-radius: 10px;
+    padding: 5px;
+    background: black;
+    color: aqua;
+    text-decoration:none;
+}
+form{
+    position: absolute;
+    top:200px;
+    align-content: center;
+    left:700px;
+}
+input[type=text]
+{
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+#a1
+{
+    position: absolute;
+    top:15px;
+    left:800px;
+
+}
+div
+{
+    margin-top: 20px;
+}
+#page1
+{
+
+    margin-left: 1500px;
+}
+
