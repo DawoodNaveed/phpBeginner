@@ -28,12 +28,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         // check if name only contains letters and whitespace
         if (!preg_match("/^[a-zA-Z-' ]*$/",$name)) {
             $nameErr = "Only letters and white space allowed";
-        }
-        else
-        {
+        } else {
             $nameCheck=true;
         }
     }
+    
     if (empty($_POST["publisher"])) {
         $publisherErr = "publisher is required";
     } else {
@@ -41,12 +40,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         // check if name only contains letters and whitespace
         if (!preg_match("/^[a-zA-Z-' ]*$/",$publisher)) {
             $publisherErr = "Only letters and white space allowed";
-        }
-        else
-        {
+        } else {
             $publisherCheck=true;
         }
-    }
+      }
+    
     if (empty($_POST["ISBN"])) {
         $ISBNErr = "ISBN is required";
     } else {
@@ -54,7 +52,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         // check if name only contains letters and whitespace
             $ISBNCheck=true;
 
-    }
+      }
 
         if (empty($_POST["image"])) {
                 $imageErr = "Image is required";
