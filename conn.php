@@ -35,23 +35,4 @@ class Singleton {
     }
 }
 ?>
-<?php
-//function getObject()
-//{
-//    $i=0;
-//    $var =Singleton::getInstance();
-//    print_r($var);
-//
-//    $sql = "INSERT INTO MyGuests (firstname, lastname, email)
-//            VALUES ('John', 'Doe', 'john@example.com')";
-//
-//    if ($var->query($sql) === TRUE) {
-//        echo "New record created successfully";
-//    } else {
-//        echo "Error: " . $sql . "<br>" . $var->error;
-//    }
-//
-//    mysql_error($var);
-//}
-//getObject();
-//?>
+
